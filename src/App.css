@@ -36,6 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
 .red {
   color: #ff0000;
+}
+
+.none {
+  display: none;
 }
